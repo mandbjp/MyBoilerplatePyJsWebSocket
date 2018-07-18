@@ -1,1 +1,1 @@
-# MyBootstrapPyJsWebSocket
+# MyBoilerplatePyJsWebSocket
